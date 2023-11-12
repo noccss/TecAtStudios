@@ -1,0 +1,22 @@
+{
+    "1": "0-Téo andava pelo corredor",
+    "2": "0-Olha é ele de novo aquele gato com a cara esquisita.",
+    "3": "0-Cara?! Aquilo parece mais um prato do que uma cara (Risadas (N/A: é isso não sei bem como descrever a risada deles))",
+    "4": "0-É sério que ele não se toca que aqueles óculos o deixam mais esquisito do que já é?",
+    "5": "0-Para cara ele tá olhando para cá! (Risadas)",
+    "6": ["REAGIR", "NÃO REAGIR"],
+    "7": "aswnser:1-Acho melhor não da última vez ganhei uma fatura nova no cartão e um óculos novo",
+    "8": "aswnser:1-Ué dessa vez ficaram somente na ofensa? Devo estar com uma sorte tremenda hoje mesmo.",
+    "9": "change_cenario:1",
+    "10": "0-Já dentro da sala de aula, Téo se direcionou imediatamente a sua mesa, mas no meio de seu caminho ele acaba por trombar com um armar... colega seu.",
+    "11": "1-Opa perdão eu consegui a façanha de não ter visto você.",
+    "12": "2-Está tudo bem Téo, não foi nada (risada)",
+    "13": "1-Desculpa a gente se conhece? Pois acredite eu lembraria de conhecer um armário como tu ein (Surpresa)",
+    "14": "2-Claro que a gente se conhece Téo, não se lembra de mim Felix? Eu sei que eu troquei o corte do cabelo, mas assim você me magoa.",
+    "15": "1-Pera F-felix? O mesmo cara que (Não sei quanto tempo) era um pouco mais alto que eu, que de lado sumia e de frente parecia que estava de lado? Impossível ser o mesmo gato(Pessoa?)",
+    "16": "2-Ah cara você sabe, após mudar meu corte de cabelo muita coisa mudou(risada), mas brincadeiras a parte, a algum tempo atrás eu comecei a fazer academia e cuidar mais de mim depois de tudo que eu sofria aqui.",
+    "17": "2-E bem como pode ver eu fiquei muito bem com esse novo corte de cabelo, ele destaca bem o resultado de todo o cuidado que eu tive com meu corpo.",
+    "18": "1-Eu juro cara eu estou mais perdido do que cego em tiroteio aqui, como assim meu amigo que disputava com o Soluço em quem era mais magro está maior que o armário da nossa sala.",
+    "19": "2-Calma cara eu explico o que aconteceu, assim....",
+    "20": "0-Naquele dia em específico Felix explicou como foi toda essa parte de começar a malhar e cuidar melhor de seu corpo e principalmente como influenciou em sua autoconfiança."
+}
